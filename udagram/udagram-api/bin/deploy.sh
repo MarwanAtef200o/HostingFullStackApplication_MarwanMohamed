@@ -2,7 +2,6 @@ set -x
 set -e
 
 eb init marwan --platform node.js --region us-east-1
-eb create --sample marwan-env
 eb use marwan-env
 
 eb setenv AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID &&
