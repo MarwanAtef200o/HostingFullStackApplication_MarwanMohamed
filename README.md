@@ -22,6 +22,7 @@ HostingFullStackApplication.
 then run these commands through the terminal
 ```
 npm install
+npm run dev
 npm run build
 npm run deploy
 ```
@@ -29,6 +30,7 @@ npm run deploy
 then run these commands through the terminal
 ```
 npm install
+npm run start
 npm run build
 npm run deploy
 ```
