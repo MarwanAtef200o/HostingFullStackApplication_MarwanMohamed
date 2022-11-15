@@ -1,1 +1,1 @@
-aws s3 cp --recursive ./www s3://marwan-udagram/
+aws s3 cp --recursive ../udagram-api/www s3://marwan-udagram/
